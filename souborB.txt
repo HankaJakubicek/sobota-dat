@@ -1,1 +1,2 @@
 a ted jsem neco napisu a uvidime, jestli uvidime
+ted tady neco zmenime, jestli to bude v branchi
